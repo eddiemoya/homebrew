@@ -3,7 +3,7 @@ require 'formula'
 class Siege < Formula
   homepage 'http://www.joedog.org/index/siege-home'
   url "https://raw.github.com/tail/siege/ddff13ee54057446223cc8b80fac61d96dcda095/siege-beta.tar.gz"
-  sha1 'a044679fbe4a58b027a50735f6a4b2c12f6d2f2a'
+  sha1 '3376b8a8875909f514daa8dbd8563321bb0ebde1'
 
   def install
     # To avoid unnecessary warning due to hardcoded path, create the folder first
