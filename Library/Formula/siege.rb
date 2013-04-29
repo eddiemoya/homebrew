@@ -2,7 +2,7 @@ require 'formula'
 
 class Siege < Formula
   homepage 'http://www.joedog.org/index/siege-home'
-  url "https://github.com/tail/siege/raw/master/siege-beta.tar.gz"
+  url "https://raw.github.com/tail/siege/ddff13ee54057446223cc8b80fac61d96dcda095/siege-beta.tar.gz"
   sha1 'a044679fbe4a58b027a50735f6a4b2c12f6d2f2a'
 
   def install
